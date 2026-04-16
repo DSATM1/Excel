@@ -10,12 +10,13 @@ Order ID,Date,Product,Category,Region,Sales,Quantity,,Row Labels,Sum of Sales
 9,06-05-2026,Printer,Electronics,East,12000,1,,West,48600
 10,07-05-2026,Mouse,Accessories,West,1800,6,,Grand Total,401600
 11,08-06-2026,Laptop,Electronics,South,62000,3,,,
-12,09-06-2026,Keyboard,Accessories,North,3200,2,,,
-13,10-07-2026,Monitor,Electronics,East,16000,1,,,
-14,11-07-2026,Webcam,Accessories,West,3800,2,,,
-15,12-08-2026,Laptop,Electronics,North,58000,2,,,
-16,13-08-2026,Mouse,Accessories,South,2200,5,,,
-17,14-09-2026,Tablet,Electronics,West,28000,1,,,
-18,15-09-2026,Headphones,Accessories,East,4200,4,,,
-19,16-10-2026,Monitor,Electronics,South,15500,2,,,
-20,17-10-2026,Keyboard,Accessories,North,2900,3,,,
+12,09-06-2026,Keyboard,Accessories,North,3200,2,,Row Labels,Sum of Sales
+13,10-07-2026,Monitor,Electronics,East,16000,1,,Headphones,8700
+14,11-07-2026,Webcam,Accessories,West,3800,2,,Keyboard,9100
+15,12-08-2026,Laptop,Electronics,North,58000,2,,Laptop,285000
+16,13-08-2026,Mouse,Accessories,South,2200,5,,Monitor,46500
+17,14-09-2026,Tablet,Electronics,West,28000,1,,Mouse,8500
+18,15-09-2026,Headphones,Accessories,East,4200,4,,Printer,12000
+19,16-10-2026,Monitor,Electronics,South,15500,2,,Tablet,28000
+20,17-10-2026,Keyboard,Accessories,North,2900,3,,Webcam,3800
+,,,,,,,,Grand Total,401600
