@@ -1,21 +1,21 @@
-Order ID,Date,Product,Category,Region,Sales,Quantity
-1,01-01-2026,Laptop,Electronics,South,50000,2
-2,01-01-2026,Mouse,Accessories,North,2000,5
-3,02-02-2026,Laptop,Electronics,South,60000,3
-4,02-02-2026,Keyboard,Accessories,East,3000,2
-5,03-03-2026,Monitor,Electronics,West,15000,1
-6,03-03-2026,Mouse,Accessories,South,2500,4
-7,04-04-2026,Laptop,Electronics,North,55000,2
-8,05-04-2026,Headphones,Accessories,South,4500,3
-9,06-05-2026,Printer,Electronics,East,12000,1
-10,07-05-2026,Mouse,Accessories,West,1800,6
-11,08-06-2026,Laptop,Electronics,South,62000,3
-12,09-06-2026,Keyboard,Accessories,North,3200,2
-13,10-07-2026,Monitor,Electronics,East,16000,1
-14,11-07-2026,Webcam,Accessories,West,3800,2
-15,12-08-2026,Laptop,Electronics,North,58000,2
-16,13-08-2026,Mouse,Accessories,South,2200,5
-17,14-09-2026,Tablet,Electronics,West,28000,1
-18,15-09-2026,Headphones,Accessories,East,4200,4
-19,16-10-2026,Monitor,Electronics,South,15500,2
-20,17-10-2026,Keyboard,Accessories,North,2900,3
+Order ID,Date,Product,Category,Region,Sales,Quantity,,Row Labels,Sum of Sales
+1,01-01-2026,Laptop,Electronics,South,50000,2,,Accessories,30100
+2,01-01-2026,Mouse,Accessories,North,2000,5,,Electronics,371500
+3,02-02-2026,Laptop,Electronics,South,60000,3,,Grand Total,401600
+4,02-02-2026,Keyboard,Accessories,East,3000,2,,,
+5,03-03-2026,Monitor,Electronics,West,15000,1,,,
+6,03-03-2026,Mouse,Accessories,South,2500,4,,,
+7,04-04-2026,Laptop,Electronics,North,55000,2,,,
+8,05-04-2026,Headphones,Accessories,South,4500,3,,,
+9,06-05-2026,Printer,Electronics,East,12000,1,,,
+10,07-05-2026,Mouse,Accessories,West,1800,6,,,
+11,08-06-2026,Laptop,Electronics,South,62000,3,,,
+12,09-06-2026,Keyboard,Accessories,North,3200,2,,,
+13,10-07-2026,Monitor,Electronics,East,16000,1,,,
+14,11-07-2026,Webcam,Accessories,West,3800,2,,,
+15,12-08-2026,Laptop,Electronics,North,58000,2,,,
+16,13-08-2026,Mouse,Accessories,South,2200,5,,,
+17,14-09-2026,Tablet,Electronics,West,28000,1,,,
+18,15-09-2026,Headphones,Accessories,East,4200,4,,,
+19,16-10-2026,Monitor,Electronics,South,15500,2,,,
+20,17-10-2026,Keyboard,Accessories,North,2900,3,,,
