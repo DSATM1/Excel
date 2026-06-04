@@ -1,0 +1,5 @@
+region,sum(sales)
+South,196700
+North,121100
+East,35200
+West,48600
